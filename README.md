@@ -2,7 +2,7 @@
 
 A comprehensive shell script to optimize Parrot OS for better performance, responsiveness, and resource management.
 
-![Parrot OS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parrot_os_logo.svg/1200px-Parrot_os_logo.svg.png)
+![Parrot OS Logo](https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrot-logo.svg)
 <p align="center"><i>This script tunes various system settings, from kernel parameters to desktop effects.</i></p>
 
 ---
@@ -29,18 +29,18 @@ This script makes significant changes to your system configuration and requires 
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/pallab-js/ParrotForge.git)
+    cd ParrotForge
     ```
 
 2.  **Make the script executable:**
     ```sh
-    chmod +x optimize_parrot.sh
+    chmod +x ParrotForge.sh
     ```
 
 3.  **Run the script with root privileges:**
     ```sh
-    sudo ./optimize_parrot.sh
+    sudo ./ParrotForge.sh
     ```
 
 4.  **Reboot your system** to apply all the changes.
